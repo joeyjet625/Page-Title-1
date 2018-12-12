@@ -1,0 +1,32 @@
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+img {
+  width: 50%;
+  height: auto;
+}
+
+body{
+  background-image: url("http://3.bp.blogspot.com/-csh-Pe_yhDQ/UcQZP_70UMI/AAAAAAAAAEU/pfT5M7wQG5s/s1600/storm+thunder+lightning+night+sky+photo+pics+animation+gifs+free+download+3D+HD+wallpaper+background+ecards+decoration+graphic+arts+for+websites+amazing+landscape+with+cactuses+and+lightning.gif");
+}
+
+h1 {
+  color: white;
+}
+
+p{ color:red;
+font-size:40px;}
+
+div.a {
+  text-align: center;
+}
